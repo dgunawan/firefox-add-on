@@ -1,0 +1,16 @@
+{
+  "title": "Simple movie ratings",
+  "name": "smr-rotten-imdb",
+  "version": "0.0.1",
+  "description": "Basic service to search the ratings of a movie",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "movies"
+  ]
+}
